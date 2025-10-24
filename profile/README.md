@@ -15,7 +15,7 @@ Advanced methods have real world impact when they deliver actionable information
 As pioneers in causal inference research, we are committed to transparent reporting and resource sharing that empowers investigators at every level. We foster a collaborative environment by developing open-source software for causal inference and freely accessible books & publications. We also train the next generation of investigators in causal inference via comprehensive education programs including online resources, seminar series and in-person courses at Harvard T.H. Chan School of Public Health.
 
 # Software Offerings
-CAUSALab is committed to offering free tools, code, and events to make causal inference more accessible. If you’d like to support our work at Harvard T.H. Chan School of Public Health, consider making a [financial contribution](https://hsph.harvard.edu/research/causalab/donate/). [DEADLINK]
+CAUSALab is committed to offering free tools, code, and events to make causal inference more accessible. If you’d like to support our work at Harvard T.H. Chan School of Public Health, consider making a [financial contribution](https://hsph.harvard.edu/research/causalab/support-our-work/).
 
 ## NICE G-formula
 The g-formula (Robins, 1986) uses data with time-varying treatments and confounders to estimate the risk or mean of an outcome under hypothetical treatment strategies specified by the user. The software below implements a plug-in estimator of the non-iterative conditional expectation (NICE) representation of the g-formula.
