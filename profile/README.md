@@ -31,6 +31,7 @@ This software implements a plug-in estimator of the iterative conditional expect
 
 ## Sequential target trial emulation
 - R: [SEQTaRget package](https://github.com/CausalInference/SEQTaRget)
+- Python: [pySEQTarget package](https://github.com/CausalInference/pySEQTarget)
 
 ## Inverse Probability Weighting of Marginal Structural Cox Models
 - SAS: [MSM Macro](https://github.com/CausalInference/MSM-SAS) macros to estimate the parameters of a marginal structural Cox model and estimate risk under hypothetical static interventions (requires SAS IML)
